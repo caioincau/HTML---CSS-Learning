@@ -1,0 +1,35 @@
+.menu-setores ul {
+     font-size: 20px;
+}
+.menu-setores a {
+      color: #003366;
+}
+.menu-setores {
+	border-bottom: 2px solid;
+     bottom: 0;
+     right: 0;
+}
+#logo img{
+	width: 20%;
+	padding-left: 1em;
+}
+.menu-setores ul li {
+     display: inline;
+     margin-left: 20px;
+}
+
+header{
+	margin: 4em;
+/* 	background: -moz-linear-gradient(center top, #3a3737 0%, #01103d 100%) repeat scroll 0 0 transparent; */
+}
+.container {
+     margin: 0 auto;
+     width: 940px;
+}
+footer{
+	height: 60px;
+	clear: both;
+	color: white;
+	text-align: center;
+	background: -moz-linear-gradient(center top, #3a3737 0%, #01103d 100%) repeat scroll 0 0 transparent;
+}

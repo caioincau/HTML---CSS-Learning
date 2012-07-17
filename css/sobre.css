@@ -1,0 +1,21 @@
+   
+figure #lightface {
+	clear:both;
+	float: right;
+	text-align: center;
+}
+
+figcaption {
+       font-style: italic;
+}
+#sobre{
+	margin: 0 auto;
+	padding-top: 2em;
+    width: 940px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-serif;
+}
+
+#title{
+	border-bottom: 2px solid;
+	font-size: x-large;
+}

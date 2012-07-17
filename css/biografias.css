@@ -1,0 +1,15 @@
+#fotos {
+     margin: 10px 0;
+     padding: 10px;
+     width: 900px;
+     float: left;
+     text-align: center;
+}
+#fotos li{
+     display: inline-block;
+     vertical-align: top;
+     width: 270px;
+     margin: 2px;
+     padding-bottom: 10px;
+     text-align: center;
+   }
