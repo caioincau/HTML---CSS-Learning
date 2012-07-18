@@ -25,11 +25,14 @@ header{
 .container {
      margin: 0 auto;
      width: 940px;
+     min-height: 100%;
 }
 footer{
+	position: relative;
 	height: 60px;
 	clear: both;
 	color: white;
 	text-align: center;
 	background: -moz-linear-gradient(center top, #3a3737 0%, #01103d 100%) repeat scroll 0 0 transparent;
 }
+html, body {height: 90%;}
