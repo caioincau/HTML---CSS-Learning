@@ -25,9 +25,10 @@ header{
 .container {
      margin: 0 auto;
      width: 940px;
-     min-height: 100%;
+/*      min-height: 100%; */
 }
 footer{
+/* 	border-radius: 10px; */
 	position: relative;
 	height: 60px;
 	clear: both;
@@ -36,3 +37,32 @@ footer{
 	background: -moz-linear-gradient(center top, #3a3737 0%, #01103d 100%) repeat scroll 0 0 transparent;
 }
 html, body {height: 90%;}
+
+p:first-letter {
+     font-weight: bold;
+}
+
+.menu-setores a:hover {
+	color: #007dc6;
+}
+.menu-setores a:active {
+	color: #867dc6;
+}
+
+.menu-setores ul li ul {
+  display: none;
+}
+.menu-setores ul li:hover ul {
+  display: block;
+  vertical-align: top;
+}
+
+.banner {
+	text-align: center;
+}
+.banner img {
+/* 	-moz-transform: translateX(-50px); */
+/* 	-moz-transform: rotate(-10deg); */
+/* 	-moz-transform: skewX(10deg);Efeito Meio 3D Interessante */
+	box-shadow: 0px 10px black;
+}
