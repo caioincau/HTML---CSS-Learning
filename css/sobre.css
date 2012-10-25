@@ -3,6 +3,9 @@ figure #lightface {
 	clear:both;
 	float: right;
 	text-align: center;
+	width: 28%;
+	padding: 2%;
+	max-width: 180px;
 }
 
 figcaption {
@@ -11,7 +14,7 @@ figcaption {
 #sobre{
 	margin: 0 auto;
 	padding-top: 2em;
-    width: 940px;
+    width: 80%;
     font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-serif;
 }
 

@@ -1,5 +1,5 @@
 .menu-setores ul {
-     font-size: 20px;
+     font-size: 100%;
 }
 .menu-setores a {
       color: #003366;
@@ -10,12 +10,12 @@
      right: 0;
 }
 #logo img{
-	width: 20%;
+	width: 25%;
 	padding-left: 1em;
 }
 .menu-setores ul li {
      display: inline;
-     margin-left: 20px;
+     margin-left: 4%;
 }
 
 header{
@@ -24,7 +24,7 @@ header{
 }
 .container {
      margin: 0 auto;
-     width: 940px;
+     width: 80%;
 /*      min-height: 100%; */
 }
 footer{
